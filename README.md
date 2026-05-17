@@ -1,3 +1,3 @@
 # learning-git
 learning git for gsoc 
-Anushka Sharma
+Name-Anushka Sharma
